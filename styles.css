@@ -1,0 +1,45 @@
+.search_button {
+    text-align: center;
+    border-radius: 25px;
+}
+
+#advanced_search_button {
+    color: white;
+    background-color: blue; 
+}
+
+.advanced_row {
+
+    display: grid;
+    grid-template-columns: 200px 1fr;
+}
+
+.advanced_options {
+    width: 100%;
+}
+
+.top-right-links {
+    display: flex;
+    justify-content: flex-end;
+    gap: 12px;
+}
+
+.search_container {
+    text-align: center;
+    margin: 5px;
+
+}
+
+.form {
+    text-align: center; 
+    margin: 0 auto;
+    display: grid;
+    width: 500px;
+    gap: 12px;
+    border-radius: 25px;
+}
+
+.input_box{
+    border-radius: 25px;
+
+}
